@@ -1,0 +1,14 @@
+*{
+	text-align:center;
+	color:blue;
+}
+
+body
+{
+    background-image: url("../images/drinks3.jpg");
+-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;s
+}
+

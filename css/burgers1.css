@@ -1,0 +1,16 @@
+*{
+	text-align:center;
+	color:white;
+}
+
+body
+{
+    background-image: url("../images/burger2.jpg");
+
+    color:white;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
